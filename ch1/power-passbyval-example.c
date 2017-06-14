@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int power(int base, int n);
+
 /* test power function */
 main()
 {
