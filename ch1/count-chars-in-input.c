@@ -13,7 +13,6 @@ main()
 }
 
 /*
-
 Notes:
 	- on a mac, ctrl-d to send EOF and see result
 	- pressing enter counts as a character (it's \n)
