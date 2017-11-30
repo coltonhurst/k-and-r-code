@@ -2,4 +2,4 @@
 
 Code and files from going through K&amp;R
 
-Starting fresh 17/11/13
+Note: all code compiled with `gcc` and `std=c89` flag
