@@ -1,3 +1,5 @@
+/* K&R page 21 */
+
 #include <stdio.h>
 
 #define IN 		1 /* inside a word */
