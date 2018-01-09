@@ -1,4 +1,4 @@
-/* K&R page 21 */
+/* K&R page 20 */
 
 #include <stdio.h>
 
