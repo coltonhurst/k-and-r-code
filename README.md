@@ -1,8 +1,7 @@
 # k-and-r-code
+REPO STATUS: temporarily retired (due to time restraints)
 
 Code and files from going through K&amp;R
-
-Repo Status: temporarily retired (due to time restraints)
 
 Compilation note: all code was compiled & tested with `gcc` and `-std=c89` flag.
 
