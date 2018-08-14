@@ -1,5 +1,4 @@
 # k-and-r-code
-REPO STATUS: temporarily retired (due to time restraints)
 
 Code and files from going through K&amp;R
 
