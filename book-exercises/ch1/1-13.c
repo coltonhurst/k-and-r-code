@@ -77,7 +77,6 @@ main()
     printf("\n\n");
 
     /* get the mode of words */
-    int printAnX = 0;
     int mode = wordLengths[0];
     for (i = 0; i < 10; i++) {
         if (wordLengths[i] > mode)
